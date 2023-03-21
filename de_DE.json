@@ -811,5 +811,9 @@
 	"SCEN_STOP": "Stopp",
 	"VISUALS": "Sicht",
 	"VISUAL_SET": "Setzen",
-	"VISUAL_CLEAR": "Klar"
+	"VISUAL_CLEAR": "Klar",
+	"ADMIN_IN_SESSION": "Der MxMenu Admin ist in deiner Sitzung, sei freundlich! :)",
+	"DEV_IN_SESSION": "Der MxMenu Entwickler ist in deiner Sitzung, sei freundlich! :)",
+	"CAUGHT_EXCEPTION": "Einen Fehler abgefangen",
+	"FATAL_GAME_ERROR": "Das Spiel hatte einen kritischen Fehler und benötigt jetzt möglicherweise einen Neustart"
 }

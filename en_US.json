@@ -811,5 +811,9 @@
 	"SCEN_STOP": "Stop",
 	"VISUALS": "Visuals",
 	"VISUAL_SET": "Set",
-	"VISUAL_CLEAR": "Clear"
+	"VISUAL_CLEAR": "Clear",
+	"ADMIN_IN_SESSION": "The MxMenu admin is in your session, be friendly! :)",
+	"DEV_IN_SESSION": "The MxMenu developer is in your session, be friendly! :)",
+	"CAUGHT_EXCEPTION": "Caught an exception",
+	"FATAL_GAME_ERROR": "The game had a fatal error and may need a restart now"
 }
