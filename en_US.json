@@ -893,5 +893,13 @@
 	"HOST_CHANGE": "Host Change",
 	"SCRIPT_HOST_CHANGE": "Script Host Change",
 	"IS_HOST_NOW": "{} is the host now",
-	"IS_SCRIPT_HOST_NOW": "{} is the Script Host now"
+	"IS_SCRIPT_HOST_NOW": "{} is the Script Host now",
+	"SESSION_DESYNC": "Session Desync",
+	"AUTO_REJOIN": "Automatically Rejoin",
+	"DESYNC_DETECTED": "Detected a session desync",
+	"DESYNC_DETECTED_REJOIN": "Detected a session desync, attempting to rejoin...",
+	"NOTE": "Note",
+	"STATE_TRACKING": "Online State Tracking",
+	"TRACKING_ONLINE": "{} ({}) is now online",
+	"TRACKING_OFFLINE": "{} ({}) is now offline"
 }

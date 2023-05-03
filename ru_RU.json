@@ -672,7 +672,7 @@
 	"USER_DESYNC_KICKED": "Вы были удалены рассинхронизацией",
 	"PLAYER_JOINED": "Игрок присоединился",
 	"PLAYER_LEFT": "Игрок вышел",
-	"PLAYER_LEFT_INFO": "{} ({} / {}) ушла",
+	"PLAYER_LEFT_INFO": "{} ({} / {}) вышел",
 	"PLAYER_JOINED_INFO": "{} ({} / {}) присоединяется",
 	"PLAYER_CHANGED_NAME": "{} изменил свое имя на {}",
 	"NETWORK_PLAYER_MGR": "Менеджер сетевых игроков",
@@ -893,5 +893,13 @@
 	"HOST_CHANGE": "Смена хоста",
 	"SCRIPT_HOST_CHANGE": "Сценарий смены хоста",
 	"IS_HOST_NOW": "{} является хостом сейчас",
-	"IS_SCRIPT_HOST_NOW": "{} является хостом сценариев сейчас"
+	"IS_SCRIPT_HOST_NOW": "{} является хостом сценариев сейчас",
+	"SESSION_DESYNC": "Session Desync",
+    "AUTO_REJOIN": "Автоматически присоединиться",
+    "DESYNC_DETECTED": "Обнаружен десинхронизация сеанса",
+    "DESYNC_DETECTED_REJOIN": "Обнаружен десинхронизация сессии, попытка повторного подключения...",
+    "NOTE": "Примечание",
+    "STATE_TRACKING": "Отслеживание состояния онлайн",
+    "TRACKING_ONLINE": "{} ({}) теперь онлайн",
+    "TRACKING_OFFLINE": "{} ({}) сейчас не в сети"
 }

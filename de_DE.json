@@ -893,5 +893,13 @@
 	"HOST_CHANGE": "Host Wechsel",
 	"SCRIPT_HOST_CHANGE": "Skript Host Wechsel",
 	"IS_HOST_NOW": "{} ist jetzt der Host",
-	"IS_SCRIPT_HOST_NOW": "{} ist jetzt der Skript Host"
+	"IS_SCRIPT_HOST_NOW": "{} ist jetzt der Skript Host",
+	"SESSION_DESYNC": "Sitzungs-Desync",
+	"AUTO_REJOIN": "Automatisch Wieder Beitreten",
+	"DESYNC_DETECTED": "Sitzungs-desync erkannt",
+	"DESYNC_DETECTED_REJOIN": "Sitzungs-desync erkannt, versuchen wieder beizutreten...",
+	"NOTE": "Notiz",
+	"STATE_TRACKING": "Onlinestatus-Tracking",
+	"TRACKING_ONLINE": "{} ({}) ist jetzt online",
+	"TRACKING_OFFLINE": "{} ({}) ist jetzt offline"
 }
