@@ -996,7 +996,7 @@
     "SPOOFING_TOTAL_MONEY_COLON": " Всего денег:",
     "SPOOFING_WALLET_MONEY": "Подделка денег из кошелька",
     "SPOOFING_WALLET_MONEY_COLON": "Деньги в кошельке:",
-    "STAND_USER": "Фембой",
+    "STAND_USER": "Stand-пользователь",
     "START_ACTIVITY": "Начать деятельность",
     "START_LS_CUSTOMS": "Появиться в LS Customs",
     "STEAL_IDENTITY": "Украсть личность",
@@ -1300,5 +1300,8 @@
     "OVERRIDE_CAM_DISTANCE": "Override Camera Distance",
     "OVERRIDE_CAM_DISTANCE_DESC": "Modify the spectate camera's distance from the player",
     "CAM_DISTANCE": "Distance",
-    "CAM_DISTANCE_DESC": "The distance between the camera and the player"
+    "CAM_DISTANCE_DESC": "The distance between the camera and the player",
+
+    "HIDDEN_FROM_PLAYER_LIST": "Hidden From Player List",
+    "2TAKE1_USER": "2Take1Menu-пользователь"
 }

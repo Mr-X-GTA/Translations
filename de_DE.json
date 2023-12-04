@@ -412,7 +412,7 @@
     "HIDE": "Ausblenden",
     "HIDE_ALL": "Alles Ausblenden",
     "HIDE_AMMO": "Munition Ausblenden",
-    "HIDE_FROM_PLAYER_LIST": " Von Spielerliste Verbergen",
+    "HIDE_FROM_PLAYER_LIST": "Von Spielerliste Verbergen",
     "HIDE_RADAR": "Radar Ausblenden",
     "HIJACK_TRAIN": "Zug Entführen",
     "HIJACK_TRAIN_DELETED_TRAIN": "Zug in der Nähe gelöscht",
@@ -996,7 +996,7 @@
     "SPOOFING_TOTAL_MONEY_COLON": "Gesamtgeld:",
     "SPOOFING_WALLET_MONEY": "Bargeld Spoofing",
     "SPOOFING_WALLET_MONEY_COLON": "Bargeld:",
-    "STAND_USER": "Femboy",
+    "STAND_USER": "Stand User",
     "START_ACTIVITY": "Aktivität Starten",
     "START_LS_CUSTOMS": "LS Customs Starten",
     "STEAL_IDENTITY": "Steal Identity",
@@ -1300,5 +1300,8 @@
     "OVERRIDE_CAM_DISTANCE": "Override Camera Distance",
     "OVERRIDE_CAM_DISTANCE_DESC": "Modify the spectate camera's distance from the player",
     "CAM_DISTANCE": "Distance",
-    "CAM_DISTANCE_DESC": "The distance between the camera and the player"
+    "CAM_DISTANCE_DESC": "The distance between the camera and the player",
+
+    "HIDDEN_FROM_PLAYER_LIST": "Von Spielerliste Verborgen",
+    "2TAKE1_USER": "2Take1Menu User"
 }

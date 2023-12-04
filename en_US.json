@@ -996,7 +996,7 @@
     "SPOOFING_TOTAL_MONEY_COLON": "Total Money:",
     "SPOOFING_WALLET_MONEY": "Wallet Money Spoofing",
     "SPOOFING_WALLET_MONEY_COLON": "Wallet Money:",
-    "STAND_USER": "Femboy",
+    "STAND_USER": "Stand User",
     "START_ACTIVITY": "Start Activity",
     "START_LS_CUSTOMS": "Start LS Customs",
     "STEAL_IDENTITY": "Steal Identity",
@@ -1300,5 +1300,8 @@
     "OVERRIDE_CAM_DISTANCE": "Override Camera Distance",
     "OVERRIDE_CAM_DISTANCE_DESC": "Modify the spectate camera's distance from the player",
     "CAM_DISTANCE": "Distance",
-    "CAM_DISTANCE_DESC": "The distance between the camera and the player"
+    "CAM_DISTANCE_DESC": "The distance between the camera and the player",
+
+    "HIDDEN_FROM_PLAYER_LIST": "Hidden From Player List",
+    "2TAKE1_USER": "2Take1Menu User"
 }
