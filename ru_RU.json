@@ -1303,5 +1303,19 @@
     "CAM_DISTANCE_DESC": "The distance between the camera and the player",
 
     "HIDDEN_FROM_PLAYER_LIST": "Hidden From Player List",
-    "2TAKE1_USER": "2Take1Menu-пользователь"
+    "2TAKE1_USER": "2Take1Menu-пользователь",
+
+    "GIVE_COLLECTIBLE": "Give Collectible",
+    "TRANSACTION_ERROR": "Transaction Error",
+    "START_SCRIPT": "Start Script",
+    "TRIGGER_BUSINESS_RAID": "Trigger Business Raid",
+    "REMOTE_WANTED_LVL": "Remote Wanted Level",
+    "REMOTE_WANTED_LVL_ON_OTHERS": "Remote Wanted Level On Other Players",
+    "REMOVE_WEAPON": "Remove Weapon",
+    "FREEZE": "Freeze",
+    "REMOTE_RAGDOLL": "Remote Ragdoll",
+    "REQUEST_CONTROL_EVENT": "Request Control Event",
+    "REPORT": "Report",
+    "VOTE_KICK": "Vote Kick",
+    "ADVERTISEMENT": "Advertisement"
 }
