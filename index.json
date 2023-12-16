@@ -14,9 +14,9 @@
             "file": "ru_RU.json",
             "name": "Russian (RU)"
         },
-		"pt_BR": {
-			"file": "pt_BR.json",
-			"name": "Português (BR)"
+	"pt_BR": {
+	    "file": "pt_BR.json",
+	    "name": "Português (BR)"
 		}
     },
     "selected_language": "en_US",
