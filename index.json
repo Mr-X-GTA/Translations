@@ -1,24 +1,22 @@
 {
-    "default_language_set": true,
-    "fallback_default_language": "en_US",
-    "fallback_languages": {
-        "de_DE": {
-            "file": "de_DE.json",
-            "name": "Deutsch (DE)"
-        },
-        "en_US": {
-            "file": "en_US.json",
-            "name": "English (US)"
-        },
-        "ru_RU": {
-            "file": "ru_RU.json",
-            "name": "Russian (RU)"
-        },
-	"pt_BR": {
-	    "file": "pt_BR.json",
-	    "name": "Português (BR)"
+	"version": 30,
+	"default_lang": "en_US",
+	"translations": {
+		"en_US": {
+			"name": "English (US)",
+			"file": "en_US.json"
+		},
+		"de_DE": {
+			"name": "Deutsch (DE)",
+			"file": "de_DE.json"
+		},
+		"ru_RU": {
+			"name": "Russian (RU)",
+			"file": "ru_RU.json"
+		},
+		"pt_BR": {
+			"name": "Português (BR)",
+			"file": "pt_BR.json"
+		}
 	}
-    },
-    "selected_language": "en_US",
-    "version": 30
 }
