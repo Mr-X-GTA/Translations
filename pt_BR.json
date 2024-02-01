@@ -969,7 +969,7 @@
     "SPOOFING_TOTAL_MONEY_COLON": "Dinheiro total:",
     "SPOOFING_WALLET_MONEY": "Mascarar dinheiro da Carteira",
     "SPOOFING_WALLET_MONEY_COLON": "Dinheiro da carteira:",
-    "STAND_USER": "Usuário de Stand",
+    "STAND_USER": "Femboy",
     "START_ACTIVITY": "Iniciar atividade",
     "START_LS_CUSTOMS": "Iniciar LS Customs",
     "STEAL_IDENTITY": "Roubar identidade",
@@ -1293,5 +1293,8 @@
     "ADVERTISEMENT": "Anúncio",
     "LOVE_LETTER_LUBE": "Love Letter Lube",
     "BLOCKED_BY_MOST_MENUS": "Bloqueado pela maioria dos menus.",
-    "REQUIRES_HOST": "Você precisa ser o Host da Sessão para fazer isso."
+    "REQUIRES_HOST": "Você precisa ser o Host da Sessão para fazer isso.",
+
+    "ANNOUNCEMENTS": "Announcements",
+    "ANN_TRANSLATION": "Translation: {}"
 }

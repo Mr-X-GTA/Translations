@@ -969,7 +969,7 @@
     "SPOOFING_TOTAL_MONEY_COLON": " Всего денег:",
     "SPOOFING_WALLET_MONEY": "Подделка денег из кошелька",
     "SPOOFING_WALLET_MONEY_COLON": "Деньги в кошельке:",
-    "STAND_USER": "Stand-пользователь",
+    "STAND_USER": "Фембой",
     "START_ACTIVITY": "Начать деятельность",
     "START_LS_CUSTOMS": "Появиться в LS Customs",
     "STEAL_IDENTITY": "Украсть личность",
@@ -1293,5 +1293,8 @@
     "ADVERTISEMENT": "Advertisement",
     "LOVE_LETTER_LUBE": "Love Letter Lube",
     "BLOCKED_BY_MOST_MENUS": "Блокируется большинством меню",
-    "REQUIRES_HOST": "Требуется быть хостом сеанса"
+    "REQUIRES_HOST": "Требуется быть хостом сеанса",
+
+    "ANNOUNCEMENTS": "Announcements",
+    "ANN_TRANSLATION": "Translation: {}"
 }

@@ -969,7 +969,7 @@
     "SPOOFING_TOTAL_MONEY_COLON": "Total Money:",
     "SPOOFING_WALLET_MONEY": "Wallet Money Spoofing",
     "SPOOFING_WALLET_MONEY_COLON": "Wallet Money:",
-    "STAND_USER": "Stand User",
+    "STAND_USER": "Femboy",
     "START_ACTIVITY": "Start Activity",
     "START_LS_CUSTOMS": "Start LS Customs",
     "STEAL_IDENTITY": "Steal Identity",
@@ -1293,5 +1293,8 @@
     "ADVERTISEMENT": "Advertisement",
     "LOVE_LETTER_LUBE": "Love Letter Lube",
     "BLOCKED_BY_MOST_MENUS": "Blocked by most menus",
-    "REQUIRES_HOST": "Requires to be session host."
+    "REQUIRES_HOST": "Requires to be session host.",
+
+    "ANNOUNCEMENTS": "Announcements",
+    "ANN_TRANSLATION": "Translation: {}"
 }
