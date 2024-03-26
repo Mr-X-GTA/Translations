@@ -4,7 +4,6 @@
     "ADMIN_CMD_MSG": "Um Admin lhe enviou uma mensagem.",
     "ADMIN_CMD_NORMAL": "Um Admin enviou um Comando para seu jogo.",
     "ADMIN_CMD_UNLOAD": "Seu menu foi desativado por um Admin.",
-    "ADMIN_IN_SESSION": "O Admin do MxMenu está na Sessão, seja gentil :)",
     "AIRSTRIKE": "Ataque Aéreo",
     "ALL": "Todos",
     "ALL_PLAYERS": "Todos os Jogadores",
@@ -755,7 +754,6 @@
     "REACTION_KICK_PLAYER": "Expulsar Jogador",
     "REACTION_LOG": "{} de {} ({})",
     "REACTION_NOTIFY": "{} de {}",
-    "RECEIVE_PICKUP": "Receber Coletável",
     "REFRESH": "Atualizar",
     "REGION": "Região",
     "REGION_FILTER_DESC": "É altamente recomendado manter esse filtro ligado.",
@@ -1296,5 +1294,16 @@
     "REQUIRES_HOST": "Você precisa ser o Host da Sessão para fazer isso.",
 
     "ANNOUNCEMENTS": "Announcements",
-    "ANN_TRANSLATION": "Translation: {}"
+    "ANN_TRANSLATION": "Translation: {}",
+
+    "CEO_JOIN": "CEO Join",
+    "BLOCK_RECEIVE_PICKUP": "Bloquear Receber Coletável",
+
+    "AIMBOT": "Aimbot",
+    "TARGET_DRIVERS": "Target Drivers",
+
+    "HOST_TOOLS": "Host Tools",
+    "NUM_BLACKLISTED_PLAYERS": "Number Of Blacklisted Players: %llu",
+    "CLEAR_BLACKLIST": "Clear Blacklist",
+    "CLEAR_BLACKLIST_DESC": "Allows players who were previously removed by vote kick to rejoin."
 }

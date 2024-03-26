@@ -4,7 +4,6 @@
     "ADMIN_CMD_MSG": "Ein Administrator hat dir eine Nachricht gesendet.",
     "ADMIN_CMD_NORMAL": "Ein Administrator hat einen Befehl an dein Spiel gesendet.",
     "ADMIN_CMD_UNLOAD": "Dein Menü wurde durch einen Administrator entladen. Versuche es später wieder.",
-    "ADMIN_IN_SESSION": "Der MxMenu Admin ist in deiner Sitzung, sei freundlich! :)",
     "AIRSTRIKE": "Luftschlag",
     "ALL": "Alle",
     "ALL_PLAYERS": "Alle Spieler",
@@ -462,8 +461,8 @@
     "JOIN": "Beitreten",
     "JOIN_BY_RID": "Per RID beitreten",
     "JOIN_BY_USERNAME": "Per Name beitreten",
-    "JOIN_CEO": "Join CEO/MC",
-    "JOIN_CEO_DESC": "Joins the player's CEO/MC",
+    "JOIN_CEO": "CEO/MC Beitreten",
+    "JOIN_CEO_DESC": "Tritt dem CEO/MC des Spielers bei",
     "JOIN_IN_SCTV": "In SCTV-Slots Beitreten",
     "JOIN_IN_SCTV_DESC": "Erlaubt dir, an vollen und Solo-Sessions teilzunehmen, kann aber von anderen Moddern erkannt werden",
     "JOIN_REDIRECT": "Beitritts-Weiterleitung",
@@ -755,7 +754,6 @@
     "REACTION_KICK_PLAYER": "Kicken",
     "REACTION_LOG": "{} von {} ({})",
     "REACTION_NOTIFY": "{} von {}",
-    "RECEIVE_PICKUP": "Pickup Erhalten",
     "REFRESH": "Aktualisieren",
     "REGION": "Region",
     "REGION_FILTER_DESC": "Es wird dringend empfohlen, diesen Filter aktiviert zu lassen",
@@ -1296,5 +1294,16 @@
     "REQUIRES_HOST": "Erfordert es Sitzungshost zu sein.",
 
     "ANNOUNCEMENTS": "Ankündigungen",
-    "ANN_TRANSLATION": "Übersetzung: {}"
+    "ANN_TRANSLATION": "Übersetzung: {}",
+
+    "CEO_JOIN": "CEO Beitritt",
+    "RECEIVE_PICKUP": "Pickup Erhalten",
+
+    "AIMBOT": "Automatisches Zielen",
+    "TARGET_DRIVERS": "Fahrer Anvisieren",
+
+    "HOST_TOOLS": "Host-Tools",
+    "NUM_BLACKLISTED_PLAYERS": "Anzahl Blockierter Spieler: %llu",
+    "CLEAR_BLACKLIST": "Blockliste Leeren",
+    "CLEAR_BLACKLIST_DESC": "Erlaubt Spielern die zuvor per Abstimmungskick entfernt wurden wieder beizutreten."
 }
